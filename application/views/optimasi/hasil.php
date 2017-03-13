@@ -1,0 +1,1 @@
+<h3> Hasil optimasi adalah : Masjid    Dengan Decision Index : </h3>

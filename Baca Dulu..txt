@@ -1,0 +1,7 @@
+-> BIKIN DB dulu namanya dss_repair
+-> upload file sql ini
+-> taro di htdocs namanya harus dss
+-> oke localhost/dss/ 
+-> login : bimas password : bimas
+-> nanti apus data dummy yg gua bikin , trus isi pake data asli
+-> optimasi dah tanyain bener apa kaga

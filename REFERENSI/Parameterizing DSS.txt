@@ -1,0 +1,42 @@
+Lama berdiri PV 0.02
+Jenis masjid 0.06
+lama kerusakan 0.13
+luas bangunan 0.05
+kapasitas masjid 0.14
+kegiatan masjid 0.06
+intensitas   0.12
+biaya 0.15
+
+status tanah 0.05
+jarak 0.09
+tiipe kerusakan 0.13
+
+
+PV
+
+
+masjid 60
+musola 40 
+
+kegiatan masjid
+pengajian 60
+majelis ta lim 40
+
+tipe keruskaan 
+ringan 10
+sedang 20
+berat 70
+
+ 
+
+PV1  BIAYA  MIN 
+PV2  Kapasistas  MAX  
+PV3  Tipe Kerusakan MAX
+PV4  Lama kerusa MAX 
+PV5  intensitas  MIN 
+PV6  jarak   MAX
+PV7  kegiatan   MAX
+PV8  jenis masjid 
+PV9 luas bangunan MAx
+PV10 status tanah 
+PV11 lama berdiri MAX
